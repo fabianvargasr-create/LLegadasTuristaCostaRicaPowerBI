@@ -44,7 +44,7 @@ The workflow to clean and structure the information involved the following steps
 ## 📈 Visualizations and Insights
 *(Optional: Take a screenshot of your dashboard, upload it to your repository folder, and link it below)*
 
-[![Dashboard Preview](your-image-path.png)](https://github.com/fabianvargasr-create/LLegadasTuristaCostaRicaPowerBI/blob/main/screenshotofDashboard.PNG)
+(https://github.com/fabianvargasr-create/LLegadasTuristaCostaRicaPowerBI/blob/main/screenshotofDashboard.PNG)
 
 The final interactive report highlights:
 * The total volume of foreign national entries.
